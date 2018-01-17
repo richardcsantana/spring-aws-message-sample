@@ -2,7 +2,7 @@
 
 ## Configure
 
-Set environment variables ```AWS_ACCESS_KEY_ID ``` and ```AWS_SECRET_ACCESS_KEY``` with your credentials
+Set environment variables ```AWS_ACCESS_KEY_ID ``` and ```AWS_SECRET_ACCESS_KEY``` with your credentials or use the ```./aws/credentials``` file 
 
 ## Roadmap
 
